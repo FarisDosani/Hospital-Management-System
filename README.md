@@ -1,4 +1,4 @@
-# Hospital Management System (Mixed Mode)
+# Hospital Management System
 
 A comprehensive, console-based application written entirely in x86 Assembly Language using the MASM compiler and Irvine32 library. This project manages hospital administration tasks through direct memory manipulation, system interrupts, and low-level file I/O operations.
 
